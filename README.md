@@ -10,7 +10,7 @@
 
 ## Link to Frontend
 
-- https://github.com/MOHAMMADI-AF/FINALPROJECT-FPFE.git
+- https://github.com/MOHAMMADI-AF/FPFE.git
 
 ## Table of Content:
 
