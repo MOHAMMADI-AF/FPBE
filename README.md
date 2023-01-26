@@ -2,6 +2,12 @@
 
 # MERN Document Tracking Project
 
+This App will allow you to keep track of your document(s); whenever you need, you can look for documents saved, get a copy of it, and add a note about the saved file. This web-based App is compatible with all updated browsers on PCs and mobile devices.
+Who can use this App: This is a practice project with basic features at the current stages; the next version will have new features to make it better with minimum functionality for a document tracking App and easy access and use for everyone interested.
+What is the intention of building this App? This final project of the software engineering boot camp.
+
+![](images/App.png)
+
 ## Demo link:
 
 - Not available
@@ -50,7 +56,3 @@ MongoDB, Express, React & NodeJS and dependencies
 - nodemon
 
 or edit the package.json files to configure the scripts and run the FrontEnd and Backend together in React.js and Express.js with 'concurrently' package
-
-# Status
-
-### Version 1.0.0 working, functionality CURD.
